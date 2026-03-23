@@ -1,11 +1,8 @@
 # Ishit Goswami - Developer Portfolio
 
-![Portfolio Preview](./public/preview.png) *(Note: You can add a preview image here later)*
 
 Welcome to the source code for my personal developer portfolio! This website was built to showcase my projects, skills, and academic background as a Computer Science Engineering student passionate about Full Stack Development, Mobile Applications, and AI/ML technologies.
 
-## 🚀 Live Demo
-*(Add your Vercel or Netlify link here once deployed!)*
 
 ## 🛠️ Technology Stack
 This portfolio is built with modern web technologies:
